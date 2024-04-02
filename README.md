@@ -1,5 +1,5 @@
 - Hi, I’m @GastonRodrigo
-- I’m interested in FrontEnd, Blockchain & web3.
+- Frontend Dev, React \ Next.js
 - I’m looking to collaborate on Web3 projects
 - Can reach me in harko@heka.digital
 
